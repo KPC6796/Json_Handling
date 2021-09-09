@@ -7,8 +7,8 @@
 5. git remote add origin https://github.com/KPC6796/Json_Handling.git
 6. git push -u origin main
 
-After making changes to README.md, 
-git commit -am "pushed changes in last line of README file"
+After making changes to README.md, git commit -am "pushed changes in last line of README file"
+
 7. git commit -m "first commit"
 8. Always make changes in the new branch (added from branch_prac branch)
-
+9. For changing author of commits - git commit --amend --author="Author Name <email@address.com>"
