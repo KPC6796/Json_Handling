@@ -10,4 +10,5 @@
 After making changes to README.md, 
 git commit -am "pushed changes in last line of README file"
 7. git commit -m "first commit"
+8. Always make changes in the new branch (added from branch_prac branch)
 
