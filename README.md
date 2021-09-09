@@ -9,3 +9,5 @@
 
 After making changes to README.md, 
 git commit -am "pushed changes in last line of README file"
+7. git commit -m "first commit"
+
