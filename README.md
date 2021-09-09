@@ -11,4 +11,4 @@ After making changes to README.md, git commit -am "pushed changes in last line o
 
 7. git commit -m "first commit"
 8. Always make changes in the new branch (added from branch_prac branch)
-
+9. For changing author of commits - git commit --amend --author="Author Name <email@address.com>"
