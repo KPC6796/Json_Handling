@@ -1,0 +1,130 @@
+{"results": [
+    {
+      "_class": "question",
+      "course": {
+        "_class": "course",
+        "title": "Angular 7 (formerly Angular 2) - The Complete Guide",
+        "url": "/the-complete-guide-to-angular-2/"
+      },
+      "replies": [
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Maximilian Schwarzmueller"
+          }
+        }
+      ]
+    },
+    {
+      "_class": "question",
+      "course": {
+        "_class": "course",
+        "title": "Angular 7 (formerly Angular 2) - The Complete Guide",
+        "url": "/the-complete-guide-to-angular-2/"
+      },
+      "replies": [
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Maximilian Schwarzmueller"
+          }
+        },
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Daniel Weat"
+          }
+        }
+      ]
+    },
+    {
+      "_class": "question",
+      "course": {
+        "_class": "course",
+        "title": "Angular 7 (formerly Angular 2) - The Complete Guide",
+        "url": "/the-complete-guide-to-angular-2/"
+      },
+      "replies": [
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Maximilian Schwarzmueller"
+          }
+        },
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Mike Jauranol"
+          }
+        },
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Mike Jauranol"
+          }
+        },
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Maximilian Schwarzmueller"
+          }
+        }
+      ]
+    },
+    {
+      "_class": "question",
+      "course": {
+        "_class": "course",
+        "title": "Angular 7 (formerly Angular 2) - The Complete Guide",
+        "url": "/the-complete-guide-to-angular-2/"
+      },
+      "replies": [
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Maximilian Schwarzmueller"
+          }
+        }
+      ]
+    },
+    {
+      "_class": "question",
+      "course": {
+        "_class": "course",
+        "title": "Angular 7 (formerly Angular 2) - The Complete Guide",
+        "url": "/the-complete-guide-to-angular-2/"
+      },
+      "replies": [
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Maximilian Schwarzmueller"
+          }
+        },
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Bernd Raucher"
+          }
+        },
+        {
+          "_class": "answer",
+          "user": {
+            "_class": "user",
+            "display_name": "Maximilian Schwarzmueller"
+          }
+        }
+      ]
+    }
+  ]
+}
